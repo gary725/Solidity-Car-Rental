@@ -1,12 +1,17 @@
 # Solidity-Car-Rental
 23/02/02更新
 1.修改变量名
+
 Car
+
 carbrand -> carBrand
+
 species -> carType
+
 rent_per_hour -> rentPerHour
 
 Customer
+
 添加bool existence
 
 2.增加addCar和autoAddCar，可以向Cars列表（库存）增加车辆实例，autoAddCar可以向库存中自动添加预设车辆用来快速测试
