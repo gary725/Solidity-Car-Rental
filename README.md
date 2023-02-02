@@ -16,7 +16,7 @@ Customer
 
 添加bool existence
 
-2.增加addCar和autoAddCar，可以向Cars列表（库存）增加车辆实例，autoAddCar可以向库存中自动添加预设车辆用来快速测试
+2.增加addCar和autoAddCar，可以向Cars Mapping（库存）增加车辆实例，autoAddCar可以向库存中自动添加预设车辆用来快速测试
 
 3.viewCar可以查看车辆租赁状态，租费和押金直接显示为ETH个数
 
