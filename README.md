@@ -24,7 +24,7 @@ Customer
 
 5.startRental
 1)用Car的customer属性是否为空值来判断用户输入的carID车辆是否存在，如果不是空值，说明车辆在库存中或正在租赁中，如果空值说明没有对应车辆实例
-2)删除判断customer是否isRenting，用户可租用多辆车
+2)删除判断customer是否isRenting，因此现在用户可租用多辆车
 3)要求开始租赁时用户ETH余额大于车型押金
 4)当用户第一次开始租赁时，将existence属性设为true
 5)只有customer能访问租赁功能
